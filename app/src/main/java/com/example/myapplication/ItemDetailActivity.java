@@ -34,7 +34,7 @@ public class ItemDetailActivity extends AppCompatActivity {
             }
         });
 
-        // Show the Up button in the action bar.
+        // Show the Up button in the action bar.1111
         ActionBar actionBar = getSupportActionBar();
         if (actionBar != null) {
             actionBar.setDisplayHomeAsUpEnabled(true);
