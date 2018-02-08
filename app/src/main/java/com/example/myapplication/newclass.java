@@ -6,5 +6,6 @@ package com.example.myapplication;
 
 public class newclass {
     public newclass() {
+//aaa
     }
 }
